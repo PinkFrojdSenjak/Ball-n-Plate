@@ -9,6 +9,7 @@ First, a web camera is set above the plate to record it at all times. Video from
 
 
 The images above shows only one servo motor, but in reality, two servo motors were used (one for both od two axis).
+
 **Made by:**
 
 Stefan Milenkovic, student of Faculty od Mathematics, Belgrade, Serbia
