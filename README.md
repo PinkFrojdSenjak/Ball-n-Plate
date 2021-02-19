@@ -1,5 +1,5 @@
 # Ball-n-Plate
-This is code used to run the Ball n Plate project, built as a part of the Applied physics and electronics section in Mathematical Grammar School (Belgrade, Serbia)
+This is code used to run the Ball n Plate project, built as a part of the Applied physics and electronics club in Mathematical Grammar School (Belgrade, Serbia)
 
 The idea of the project is to have a flat plate (made out of cardboard) ballance the ping pong ball. There are several parts to this process.
 
