@@ -8,7 +8,7 @@ First, a web camera is set above the plate to record it at all times. Video from
 ![ballNplateScheme](https://user-images.githubusercontent.com/43354887/108540273-470a5680-72e1-11eb-90b6-7cf6faab0e16.png)
 
 
-The images above shows only one servo motor, but in reality, two servo motors were used (one for both od two axis).
+The images above shows only one servo motor, but in reality, two servo motors were used (one for both od the two axes).
 
 **Made by:**
 
